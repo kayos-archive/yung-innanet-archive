@@ -73,11 +73,23 @@ Every file carries a `SC_QUALITY` tag saying what it is:
 
 ## Lyrics
 
-82 of the 193 tracks have a `.txt` file next to the audio with the same name. Jellyfin, Plex, Navidrome, and most
-desktop players pick these up as lyrics automatically. Sources, in order of preference: the lyrics he posted in his
-own SoundCloud track descriptions (used where he wrote them in plain text), then Genius. Nothing is
-machine-transcribed. Most of the tracks without a file are instrumentals, skits, early beats, or the posthumous
-re-uploads. If you can transcribe one that's missing, or fix a mistake, a pull request is welcome.
+132 of the 193 tracks have a synced `.lrc` file next to the audio with the same name. Jellyfin (10.9+), Plex,
+Navidrome, Symfonium, foobar2000, and most other players show these as timed lyrics. Each file says in its `[re:]`
+header which of the two kinds it is:
+
+- **82 tracks: real lyrics, machine-timed.** The words are the lyrics he posted in his own SoundCloud descriptions
+  or that fans transcribed on Genius. The timestamps were produced by forced alignment: vocals separated from the
+  beat with Demucs, then each line aligned to the vocal stem with Meta's MMS aligner. Line timing is usually within
+  a few tenths of a second. On a handful of heavily processed tracks the aligner was less sure; the words are still
+  right, the timing may drift.
+- **50 tracks: machine transcription, uncorrected.** Nobody has transcribed these, so they were run through
+  ElevenLabs Scribe v2 (the best speech-to-text available in 2026) with word timestamps. Rap over 808s with hacker
+  slang is about the hardest input there is, so expect wrong words, especially technical terms and names. These are
+  drafts to make the songs searchable and to give anyone correcting them a head start, not his words. If you know
+  a song, fix its file and send a pull request.
+
+The 61 tracks without a file are instrumentals, beats, skits, and the early sedoyak material, which have no
+lyrics to sync. Nothing here was machine-generated without saying so.
 
 ## Tags
 
