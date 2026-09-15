@@ -71,6 +71,14 @@ Every file carries a `SC_QUALITY` tag saying what it is:
 - **aac160** or untagged (10 files) - 160 or 128 kbps, the best SoundCloud has for that track: seven of the
   posthumous re-uploads and three of the early sedoyak tracks.
 
+## Lyrics
+
+82 of the 193 tracks have a `.txt` file next to the audio with the same name. Jellyfin, Plex, Navidrome, and most
+desktop players pick these up as lyrics automatically. Sources, in order of preference: the lyrics he posted in his
+own SoundCloud track descriptions (used where he wrote them in plain text), then Genius. Nothing is
+machine-transcribed. Most of the tracks without a file are instrumentals, skits, early beats, or the posthumous
+re-uploads. If you can transcribe one that's missing, or fix a mistake, a pull request is welcome.
+
 ## Tags
 
 - Artist / album artist is `yung innanet` throughout, except the early-work folder where the artist is `sedoyak`
