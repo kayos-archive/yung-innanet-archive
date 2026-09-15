@@ -1,0 +1,203 @@
+c85039bb610baa4aefae93a9a8724a81c65caf9b836e57f57222b58f989d3682  ./folder.jpg
+c4f767da470f0d3f1329f3fbf3fca69f2d7508a456b11928bd2414483dd75d1b  ./privnote/01 - yungSNAT.flac
+f9b50677297e7cf0a27a5fcc921e078817edfe50b58d3cbbd667c27c28b03909  ./privnote/02 - SIGKILL.flac
+5c15037fb1581df3664d712aa55f4797ef6a4f27ff16839c565e86e926ae6467  ./privnote/03 - the.onion.router.flac
+cc7a4608160aebea21e8e9dd800acc7509db5db56e8257202e1547412e4108f4  ./privnote/04 - dead.innanet.flac
+b8c0a2ad26e3af15bde6d818a3e59ba0fae9f8e4063bd0e1c6f60542ab5f0036  ./privnote/05 - SHITPOST.flac
+50a6da5307eaa92bcc1051a43319d73dd3bf83323b7f00cab55f982274621484  ./privnote/06 - SURF.flac
+0131aa417d27e40f24877b14d60705045b203ba239df00cfdc00f329cbda3909  ./privnote/07 - AHCI.flac
+3d4bdf7424e390344ea8da77fa0ed1ba17874fadf84058ca5fe8470f25fc4768  ./privnote/folder.jpg
+cd87aec5bf82c3ab1eff6eaf4bc7e4d78ffa1f64702e20a63b51a5bf24016efb  ./protocols/01 - SMTP.flac
+d384127680dfc929acc02f6ab2c3f0a4a83eba78483691923011999d6da47d93  ./protocols/02 - L2TP.flac
+98738a27414f943814312a835f612db176bc2a66cb6afb23aba1c6417c2556c4  ./protocols/03 - ICMP.flac
+8c21a3d31982c175b50cf17b18cf73d2963c37406b5120d318ac2193745192dd  ./protocols/04 - SIP.flac
+91c2ac564cad334b30590a04d893a8c55b577312816fbc8239504d413fcd5020  ./protocols/05 - RDP.flac
+7082afe566ca411ab45037fc2548b6321b333638eb7a300e142d957dda8f662c  ./protocols/06 - ARP.flac
+8773b63b2d7f449d10deaac623eccbee9d97b6644b5d0d59e72c0b43b7199902  ./protocols/folder.jpg
+f2d646fce7be81df97e1f14b0719a80dbad7e10341d85b79a1270f0d7746ffa8  ./sedoyak (early work 2011-2016)/01 - 1383r - Monster Slaying B33Tz.mp3
+6d345fe90b86787b2791745893e000c6ccf2999b1f30831a8d7b20da62f4d457  ./sedoyak (early work 2011-2016)/02 - 1383r - Robo Jam.mp3
+4578b40347744d9ad4ae501bdb80877f57d1db64981093896fd87df3a7578ae9  ./sedoyak (early work 2011-2016)/03 - KayoGlitch.mp3
+386da2e6ad4b908c791df369b1028794abffbc58de7e5e6aaea1fdb982d28fdf  ./sedoyak (early work 2011-2016)/04 - Tr00 pl4ya f0 r33l.mp3
+cc75552f77870917f29c705ecd7a400fef184837398433762250c61c48dbf8af  ./sedoyak (early work 2011-2016)/05 - Twisted.mp3
+c2ebcd3386fff6ba79ecff385e5a23736263f2e9dc86440c0e18dfc17efba156  ./sedoyak (early work 2011-2016)/06 - Don't Sweat It.mp3
+692989001d93b531e70bb2a370b10294839288b5452a69325fc30d1f12f5d39b  ./sedoyak (early work 2011-2016)/07 - Happiness.mp3
+d937cff1d8b18022e2b324f9c017ab6d552c382c196bd94975e7644f3789d846  ./sedoyak (early work 2011-2016)/08 - 0verklok b33ts.mp3
+c69f0623809612d8cabc9c78386278da4ffd46729cfca0543cb734083705d32c  ./sedoyak (early work 2011-2016)/09 - Existential Clusterfuck.mp3
+2f7452963d773f3aa992f93cf199033414463e9830ce4ef2c53cc0579bbe0e6d  ./sedoyak (early work 2011-2016)/10 - Keep Swimmin'.mp3
+6bc3075272fbaabe879afebd643dd55eabe6379b0e40d5beea5853cbac7aa5d4  ./sedoyak (early work 2011-2016)/11 - 5pit fl0w.mp3
+31d8161fbf80cfb000033c41a4da0efc897b348ca0606a1e416dfbca7789bcef  ./sedoyak (early work 2011-2016)/12 - Babble.mp3
+d7733f5748005b5b541a7c8005073de8d962e5d8b5e01b5453b91b3cbfaa1547  ./sedoyak (early work 2011-2016)/13 - Relevance.mp3
+c7b1e451208b03633374336b8b998433684d80a0d200dcc0b3678ff51bc853a5  ./sedoyak (early work 2011-2016)/14 - Another Day.mp3
+b4b51e413e4edbf59c7e5bf6743ab6362fd43e9538caab226f270c6d8c5203ce  ./sedoyak (early work 2011-2016)/15 - Waking Life.mp3
+64e41299db796e7ddebb28e340eeb670ac198720ef239f29ab5493a6118d3aa1  ./sedoyak (early work 2011-2016)/16 - Jet Set.mp3
+9a1bdd2de78f513ce66e62ecd68f2a76c18ded26bebac9383eefcf64b258ad41  ./sedoyak (early work 2011-2016)/17 - Close2U.mp3
+9a642b4b335ca9c000d4a8dc3fe0c40789f313949d62b7be22fcea8e131819e8  ./sedoyak (early work 2011-2016)/18 - rm -rf.mp3
+da7b70d0a8f2beaaf5d3a5d8a0ed36efa9e9edf34a05731239dccaee44f3028e  ./sedoyak (early work 2011-2016)/19 - Butts.mp3
+921f55e0b24d867e90beb3f5d859cc0d43e5d25fa0fcc8647295eaaa3a389d0e  ./sedoyak (early work 2011-2016)/20 - Champion (Ft. MC Chris).mp3
+573556ffaff99c3684edf445032dfe562a57357e36f12e394f84fa4b265088f4  ./sedoyak (early work 2011-2016)/21 - Smooth.mp3
+00eb9148fad7790157e0b0d9f309ac1ebba3f131a76caba85d018a54393a3b6c  ./sedoyak (early work 2011-2016)/22 - Float (ft. Trelt).mp3
+cc6a2e2a89eca88cbc9ba70f88bb5777c614a28950cc034ab916b5b816840137  ./sedoyak (early work 2011-2016)/23 - #1 m0nsta 5laya.mp3
+29a337dd3c07f2c1923c75bb21d84a6e6ded3876397f651865f2a045d53176de  ./sedoyak (early work 2011-2016)/24 - PKMNTRNR - Zelda Lullaby (Remix).mp3
+013b135671e925ac77cb4e50fde4834806b5f53abbac636f3b9728aafd91f9a9  ./sedoyak (early work 2011-2016)/25 - Jam Sammich.mp3
+7d045081057b16a530ae24426c838e32ac51a017a3ab95d1bacbb139cd0d229d  ./sedoyak (early work 2011-2016)/26 - Space Beats.mp3
+4fa5d0086a16cd259be37e5e45f1ab7abffad26fe03011ae7f12c8d68fbc8dd4  ./sedoyak (early work 2011-2016)/27 - Body Work.mp3
+86f977f82473cf582b4b2736b1f84650c39ffc2234e75ddefbcd5456e8301ed5  ./sedoyak (early work 2011-2016)/28 - Stoners Night.mp3
+3847c046260d7f7c4c91c6c85c86c1e80fc4739705654045d7ac2eb41a14b0f3  ./sedoyak (early work 2011-2016)/29 - April 20th.mp3
+163133bc8c015b5581d56684be0c1897ecd09894d73e4e7c0ea87829aeab891d  ./sedoyak (early work 2011-2016)/30 - It's There, You Just Have To Feel It.mp3
+df0c58be4a78889a3590ae82f650a9766984609830d5f57cac2d8df54045d824  ./sedoyak (early work 2011-2016)/31 - Still Bangin (Still In This Bitch remix).mp3
+dd4baee982b325a899202ec192f4eef3470a4a9f749c701fa1a6df33262f552e  ./sedoyak (early work 2011-2016)/32 - ChipFlow (Weasel Tribute).mp3
+5dd74d7435b3cc9243c984c874c0bcaa2e6e45add1f02ccebea5da1f4ede0406  ./sedoyak (early work 2011-2016)/33 - Dangerous (Feat꞉ Biggie Smalls).mp3
+5c08d3df761595ca324b2a04e86bc78f11d288244cd1b65d0aa2b784cb3f3990  ./sedoyak (early work 2011-2016)/34 - YB - Lambo (Chopped and definitely Slopped).mp3
+b557b7a969fac9a13cda6be9eeb1a17409e63bbba1fc0644737d324ee57db43d  ./sedoyak (early work 2011-2016)/35 - Mashup - Dead Instrumentals (Wiz Khalifa - Runways X Biggie Smalls - Dead Wrong).m4a
+e4519ee55fabe08f4ea1672243106ac706bf60b87abda9089d3e0075247172d0  ./sedoyak (early work 2011-2016)/36 - 5ever.mp3
+95d9c62a18402341f88db43d5c1a592c75b63cd6e27b35f60fcc557b3f207328  ./sedoyak (early work 2011-2016)/37 - Emancipator - Soon it Will Be Cold Enough to Build Fires (Remix).mp3
+1054ebab1a001d3fbec27fa40f6b20d16620193206b4113ea8ec0cd0ac9b0784  ./sedoyak (early work 2011-2016)/38 - 2-c the world.mp3
+a1d22180b1ce779ab34a935a60a1fddc7efc2b64daffcc5a8492860dab52809e  ./sedoyak (early work 2011-2016)/39 - Long Arm - Double Bass in Love (Remix).mp3
+8e0da715882de1428f0e772d9c2bba261e859a87650e718a8f26374d073b43fa  ./sedoyak (early work 2011-2016)/40 - Digital Dischord.mp3
+f36fb9e4f79b31e93bf6edce1c92209b25425c1f9f4bfa12284511002796def0  ./sedoyak (early work 2011-2016)/41 - Good Good.mp3
+178636155e0ee680a8300c794c2d37afc9f557254d8f3a941e32b7898d987d9b  ./sedoyak (early work 2011-2016)/42 - Cognitive Dissonance.mp3
+fca43ee47fd936ad08170abf3fcd3de5b86579424f33a67a2da7c9606b7d0b40  ./sedoyak (early work 2011-2016)/43 - 2TS - Salvation (lost project).mp3
+433d0a9677b8fa93d42f60fa5d7ec9985a52b9def534f9aa1ae303f38a0cfda8  ./sedoyak (early work 2011-2016)/44 - Bobby Johnson In The Club (V1).mp3
+c9d49a2b8e856a1c793e774ee3b10461a4d831af6f7b56a7971f06ecd8d1afa2  ./sedoyak (early work 2011-2016)/45 - KayoMash - Ayo Johnson (Chris Brown & Tyga x Que).m4a
+19991958e24051d8b47011bad00e230cf5de20c6462429097c2771138e2f23b8  ./sedoyak (early work 2011-2016)/46 - Nino Ft. Lox Chatterbox - Lucy (edit).m4a
+3e58dc8a0d55e5ca8252254483cee6bc73ff1e70db4bea11a7d7b63a57a5ef68  ./sedoyak (early work 2011-2016)/47 - Solar Powered.mp3
+6ff54f29cdac76ce14784d6a578c4654975cbf9b7be3a982ae5b9824d40b3b75  ./sedoyak (early work 2011-2016)/48 - Lunar Powered.mp3
+28160d17551a745d2762c37b821084c1b362ee6366731e73b303845c11a4edc2  ./sedoyak (early work 2011-2016)/49 - minicard.mp3
+23cf028efa325afa6535ec33d058a01be8db27108a6ca5f87c8ed67e6854944c  ./sedoyak (early work 2011-2016)/folder.jpg
+d91ef173e3d2d1ba8c6596e013a5a20a17800d41701d2eec83a992868fc1bbea  ./SoundCloud (non-album tracks)/01 - mspaint.exe.m4a
+8fcdd3bb3428951420c6be527e0a58ac82cf7d9905a8d27768055b41684af359  ./SoundCloud (non-album tracks)/02 - hal.dll.m4a
+9b26467b5c4fa0c50587138a950498a0486cfed8d151c0a8b54d1df71f1946d9  ./SoundCloud (non-album tracks)/03 - waste.msi.m4a
+8dd36c6202438f4a2948fc080de67b0a3bea3bc97118ee02e9767337f949ea1d  ./SoundCloud (non-album tracks)/04 - intentions.py.mp3
+051ca72d2106adaf1dc40b7d1e4092a6c08f2fe175e2a9b751c078582c01d263  ./SoundCloud (non-album tracks)/05 - now.sh.m4a
+cc764b94ac412bcc46714af759aca9fb08b3a7aed8479cc44307a8e0728b8f80  ./SoundCloud (non-album tracks)/06 - hack the planet (ytcracker remix).m4a
+a01aef5190cec5285c09093701ffa65c0e65e40556fb2ce5bf378ca3fb9d83e0  ./SoundCloud (non-album tracks)/07 - rip marshal.m4a
+b99fb530d68d8beda84b61e01ddd09a4eabb89e9ae87b4139329e427f8a10ff9  ./SoundCloud (non-album tracks)/08 - why smoke joints when you can make points.m4a
+a9a95cd00f651f5691f4038de83007ebc39cd3f602b371e4fa8111ec2466994b  ./SoundCloud (non-album tracks)/09 - family wake (infamous mobb remix).m4a
+af6c2701e5b9fa0f491cd52390400e55a6c05609b0b4942a111fc7625836ddf7  ./SoundCloud (non-album tracks)/10 - mvsk.m4a
+f21c50ee04b295df5080132d971810de1aa4a4300fa7c162acef15e581935981  ./SoundCloud (non-album tracks)/11 - lavos x kayos.m4a
+6d4eb941058b67b52e7d9f8fefcb498e47b7f50d8aadb5781dcff6fbd3a8ffa4  ./SoundCloud (non-album tracks)/12 - servin ether.m4a
+19dfa0dae7f10a5d83843f80ca8e675c9664cb4f983e3cec2542878718931466  ./SoundCloud (non-album tracks)/13 - LOST-IN-MEMORY (ft. lavos).flac
+22d7303bd14dd9d20613bbfb172dd91cde89aefddd909a6af323b70277d58dc6  ./SoundCloud (non-album tracks)/14 - One Time (October 2017).m4a
+40045267daf381a2913b6a7d21992f5e1e0da855428d16eabee49eb925c6009d  ./SoundCloud (non-album tracks)/15 - atrophy freestyle.flac
+8502880b027344598657f37da31d776b81c722edb5386a9a670d5c9726fa243a  ./SoundCloud (non-album tracks)/16 - kingColddshawty - prove it [stigmatik 808 bootleg].m4a
+81df3279c19c450d00aec6097ed17cb5b40e2f2b5972a9fb9ceb1dc395adf060  ./SoundCloud (non-album tracks)/17 - As The Broken Record Spins.flac
+82fd2b2bef7162f257077b550c506ac096ebb38354749a8d62d2f02f130bc42d  ./SoundCloud (non-album tracks)/18 - Cardiac Arrest.flac
+8a70703fe7647094709416474a95954ce7393fd9928407ff88180be002532aef  ./SoundCloud (non-album tracks)/19 - STIGMATIK x STEEZY (1st draft rough).m4a
+3e45a9ec1a8d5deff1d5cafa480d83309916d4119cb6fc937e0c7d83f0603dad  ./SoundCloud (non-album tracks)/20 - syntax.flac
+a6da1a8400daec111fbd67d80be2c9c998f978bb0c1405aac1c914fe1e176516  ./SoundCloud (non-album tracks)/21 - robert beat fucked my bitch.m4a
+d2ec5545ce16f5a7c4cc53ea60e62ac5e6a42e8552e9454224257de6aad40a9f  ./SoundCloud (non-album tracks)/22 - rm -f .snitch.flac
+fbc57fc8719fb1b87b7ab754e03697be45b28de749f99eac9b5ff44214c17241  ./SoundCloud (non-album tracks)/23 - round robin.flac
+ae4c9b1024d0c4acc66c934084e8f2ab53bf8099cba8c8b72ff5f46e97a3d5a4  ./SoundCloud (non-album tracks)/24 - ⧸dev⧸pts⧸d.flac
+2c45b2463d920508a4dafe6f2ffa5f0ccdae79f2036a9492ac0df16946ed7389  ./SoundCloud (non-album tracks)/25 - hollow.flac
+f77fdd9265f6b0685d02c84e3d8c51cc7ffbb5b811104869769b92d7bb997966  ./SoundCloud (non-album tracks)/26 - hypertext.flac
+4746b0dd685fa9e6377ff367f6cd77d795ac52493cab6aa6b747dcb9a3a861b2  ./SoundCloud (non-album tracks)/27 - ublocc origin (all music free dl on sc).flac
+eb1b63ac208f4e9c87678886ab46ef35b42ddb84df96f1560fc266a9079c09eb  ./SoundCloud (non-album tracks)/28 - aptitude (ft. mithra).flac
+f2d1c671a7a8492dce14cae1109f858f4db60f3ff7679c6cc1f73664e22229c2  ./SoundCloud (non-album tracks)/29 - (time capsule).flac
+fd8bf33c1d38e2e4a8efe603cdc98fc70570f218d37649129b5575c6db94971d  ./SoundCloud (non-album tracks)/30 - runawaytrain.wav.flac
+11109992cd8332901655dc4dec9d57ce21626157ad226d0898dabbbf267382c0  ./SoundCloud (non-album tracks)/31 - high fidelity.flac
+be58fb3964c58943e01f6a5c9099ad97591c3a99d351af001c4826993a34ebb7  ./SoundCloud (non-album tracks)/32 - vxug.fakedoma.in.flac
+e4d7b80022c89bb7d6f2b17a63332b020a405b3a65bae1347d4991491f76e381  ./SoundCloud (non-album tracks)/33 - never gonna finish this shit.mp3
+a96aa1e0ed713f9ca306c3a729817225054e403090edb6ce499bfad9935ca46d  ./SoundCloud (non-album tracks)/34 - methods.flac
+a9f0568208b104d972a92da53bd1cbaf910638c7ab4218de38b336b226cc9fb2  ./SoundCloud (non-album tracks)/35 - tcp.direct.flac
+916488b80257f4eff1f4da49ea022cde35dee83057351eb1f7d8cced238ed1a6  ./SoundCloud (non-album tracks)/36 - left clique.flac
+128c940d45d1d71a6e1dfbe1831bca3f0dcdf4d33eea10634d71571a6a0b2bae  ./SoundCloud (non-album tracks)/37 - (~nov⧸dec 2019).flac
+7cb063260218d80708a0a5976713a76592ab02a8d25d1e9c51ba8f31bbd5ac6f  ./SoundCloud (non-album tracks)/38 - itsmyfault.m4a
+a316a5419f3deb9aaf41956d596b8dc9607f301ceb1be908519770116f264cb0  ./SoundCloud (non-album tracks)/39 - analog lawnmower.flac
+54bd910a5ded16a892ba58a81821443d8861a37715c3ca1a2ee35fbcb99fd8e5  ./SoundCloud (non-album tracks)/40 - tragedy and system load.flac
+d1ae2bb3d4c5c501bd58c1b3a6b71bf8e74cd593174d9128a3b68472af243c5e  ./SoundCloud (non-album tracks)/41 - adhd.flac
+74a7681dbdf628e436050f2d9f06bbf2e95f472c38c4312c229e46673c2be0a6  ./SoundCloud (non-album tracks)/42 - !hook.flac
+db636ffa00b3cf8c2053b9e2460b92aef2a1a2cf4754db12417564e501534a7e  ./SoundCloud (non-album tracks)/43 - milw0rm.flac
+429ac2c6e94f1e8c41e1a5048d9b7f63fdcc9ae2b7ccd0c614feeacd7dd8f6ea  ./SoundCloud (non-album tracks)/44 - 5pray.flac
+e942ff3d0791b2c47ec55f156d8ffa825abf7645347a4c0e5d7a06f4fcf971d8  ./SoundCloud (non-album tracks)/45 - JACKd.flac
+fe82a25b3c48c45cca6c331d80daa08c40f0196a2555a53d0a1b196f1a3707b7  ./SoundCloud (non-album tracks)/46 - 0x3b.flac
+08b26ed5b7d9a4bf7853651abe29df1ec726118981d1cad6fd53dd8c49d56966  ./SoundCloud (non-album tracks)/47 - yung_innanet_bootleg.mp3.exe (time capsule).flac
+006a3ddc9fdc17de3e073c087906369f98729683c6089331d69818bf443acf07  ./SoundCloud (non-album tracks)/48 - sight.m4a
+8d941c9b52c003d44e9efdfcaff2bf93a22d96f7b07bbd42357a9f544e8d7f4e  ./SoundCloud (non-album tracks)/49 - lobotomy.m4a
+d22852e85153b47853dd13ad8d6576df4c5433603df827717c0f08694aefa1a2  ./SoundCloud (non-album tracks)/50 - fortobe.mp3 (circa ~2013).m4a
+9939b4693ae576404d7a978e1a2057f7a13895e463ac23c2de4befa897f42346  ./SoundCloud (non-album tracks)/51 - stigmatik.flac
+f431df6c0b1577f0612080e03057b4771e4c62b8af4f68ff4e31d7eeef34d495  ./SoundCloud (non-album tracks)/52 - cronjob_milkysheets_forehead_remix.mp3.exe.mp3
+da8dd6590bd12303a573485d4d09ca7839c006f5033de4c92e148dcaf47cd898  ./SoundCloud (non-album tracks)/53 - variables (instrumental).m4a
+fc7414732fc1e91da861e891a95fa010aa28dc60b763bd69084c128a4f202ca1  ./SoundCloud (non-album tracks)/54 - 5G (feat. ytcracker).flac
+2123c25099e0cccae0e53b96645096791e48a76122739b73cd1fd07601c27806  ./SoundCloud (non-album tracks)/55 - useless.m4a
+fdd458db8c8345d205ca8364fdfd08fbe8641724471612a8b7473f9d149c6a41  ./SoundCloud (non-album tracks)/56 - 0x190RD.m4a
+20d8c18858266035f3ef2f4a31f8692dd191e0b04ef1befe410ab40636143cc4  ./SoundCloud (non-album tracks)/57 - 9 better than any bitch cause she don't leave my side.m4a
+34dd4fed4f7db0d0e88ae692a6235c832f654872edb37f2e0ba2088fd71298c1  ./SoundCloud (non-album tracks)/58 - ntopng.flac
+39bb35d243c6a2b9ccda9bc55d6a2e16812cce45219a22cb0e2124aefb91279d  ./SoundCloud (non-album tracks)/59 - smart water.m4a
+fa65b387f053d5e8dfe0ffc08b7f6d8698a8e14fdd1027521a6589d7f89355ec  ./SoundCloud (non-album tracks)/60 - avatar the last packet bender.flac
+a1032b15b3a5b6f5fa0f4f87029fcc7419d5dd32048a2d8ac89f12c58b419268  ./SoundCloud (non-album tracks)/61 - 802.11.flac
+93020770235bc27d922a3b31ac6994187215d9110b6435fa00388ba8ef86ca62  ./SoundCloud (non-album tracks)/62 - glider (the game of life).flac
+144412db0cbf934b4d0ef45fe3affb7ddaec767516257cb007145d21ccd83940  ./SoundCloud (non-album tracks)/63 - wannacry.flac
+cae9e40ef262dbdad6e311a451a06dc030df6e89dc220c07e028ac0b49146c02  ./SoundCloud (non-album tracks)/64 - traffic.flac
+ee0be36860ad17cf1d1b931974611e96edff076f8f22e6c3db147996ef2b1441  ./SoundCloud (non-album tracks)/65 - c0wri3.flac
+9d545261ca5b89ee5755f908ea6c102b1277f747a946369b4c068ba3663dce97  ./SoundCloud (non-album tracks)/66 - enumerate ft. stack.flac
+8623b5acbde746dfdda1811c34e21b0b6110cdf499180d9c2b518707dbe520b9  ./SoundCloud (non-album tracks)/67 - VLAN.flac
+fafe347029b86331e40867c4d4a80e5a76a359c5a75431301e0f65594c3f52f8  ./SoundCloud (non-album tracks)/68 - obfuscate.flac
+21065f7cb5f70b88d64973f5debb0000f48d55f2f9461f0f80fcf3f504748305  ./SoundCloud (non-album tracks)/69 - the emptiness inside.m4a
+f9083ab1df7c2ce12f8e2ef29f73e2dc2328cdd73b99e439ae8f82d6a9fa2b61  ./SoundCloud (non-album tracks)/70 - tuntap.mp3
+f983c0b4dc914cb7ed35485a5615a068a4a28bbcaee630a069b10d25a180fa02  ./SoundCloud (non-album tracks)/71 - 0101.flac
+1ade899e936500b10073331285a11063c9fffa1692341d95d1da49d945c970c0  ./SoundCloud (non-album tracks)/72 - WinZip.flac
+8c86dbdc06d948243d23264a4b1f5f9eed743f038943a81035bd66d999116c58  ./SoundCloud (non-album tracks)/73 - EOL.flac
+9a921b9877572095bb1f195652dc995bb2d2af59681a1f4252e1c2f29f55443f  ./SoundCloud (non-album tracks)/74 - concurrent ft mithra.m4a
+2b54c6321dca235954a8d9f629f723a1c3abd1d7bb31ff80cf3dda7bccdfee80  ./SoundCloud (non-album tracks)/75 - tinnitus.flac
+bcc98ceb475273b3b81b09ed57dd84208f18a11c2e1da87e0daef9f3d9e05e0d  ./SoundCloud (non-album tracks)/76 - segmentation fault (core dumped).flac
+42e9f59549a6d335d998111ecd8db30e90d73b02ced420bcf795627a1e5d8e19  ./SoundCloud (non-album tracks)/77 - -j DROP (Ohm-I diss).flac
+0d8e33954816211d30b7bdb6e45eeae5623d5c69bd5403e7ae7b5357741a0672  ./SoundCloud (non-album tracks)/78 - 0x36ft.flac
+91f36d874acd693c97693b96bffd11cac8529742d186d13882119f2d0dd001c3  ./SoundCloud (non-album tracks)/79 - oblivion.m4a
+26586990950ab4357c385b823134328911e98a67b5cfc47d812074b238a575c0  ./SoundCloud (non-album tracks)/80 - malloc.flac
+1955c79d15449d93bbdac5490d9dd113f1b4f225572332651db755f7684d91f5  ./SoundCloud (non-album tracks)/81 - true colors.flac
+83a909d822fe6d53ceb22ab5e186df67d5925664567db4a17d28281bca1ba86b  ./SoundCloud (non-album tracks)/82 - ⧸issues⧸trust.flac
+79ba0d147f290d2cd36c31936f729b1e7554ce98f90c0a5f1b823b69647ee76b  ./SoundCloud (non-album tracks)/83 - mania (2020-06-22).m4a
+58b290b0d6e9f854981604d8d879c2f71fccbc91babaa8b7aa9a017311f6d211  ./SoundCloud (non-album tracks)/84 - postman (feat. ytcracker).flac
+7c9e33033a954eb1a091b77fa9e04fa91470c5a077efb03d5df7b8588b515b47  ./SoundCloud (non-album tracks)/85 - execution flow.flac
+97108098c7831f5b48e3aaa2671573c1fddb04967dce690ae16f30dcbb26bc73  ./SoundCloud (non-album tracks)/folder.jpg
+0cf421e558422504510730f6ce7b1c0fce7b0f7b4624371cf11265fb39b7c2e3  ./the nano tapes/01 - cron job.flac
+3b87637298eb3a70f4377eb0b648cf2a022908c11b795de43fc2b9761206ef2d  ./the nano tapes/02 - pci compliance.flac
+67737fbd0c1e86739250d3eb4a3f7a56127b11bd6cf6911e9363da2e7cda6f72  ./the nano tapes/03 - instant message.flac
+03c6bd9ef0b2ca9030a215b60b552c655b41af9ec5f356e6229b5f32af004786  ./the nano tapes/04 - no nut november.flac
+c8601b156a9b3e64e08fbbe6ef828e798043c67d26e8d4ed1440fe17f52cd060  ./the nano tapes/05 - reverse shell.flac
+a74663c606aa4faea435a79d420f6af36e8bd49ffcb33af63f3d472e4454c4e8  ./the nano tapes/06 - credentials.flac
+bc76bf4b99147db6045ee64355996a63a2e11271471dcd88d94255d25ded2208  ./the nano tapes/07 - adb shell.flac
+13eba68221eb15f84716bc74135e22867484564430bc4d7d64217645ce5efd17  ./the nano tapes/folder.jpg
+2d0ada74806591e4d72d22903e567e1890fc7039db4504c14a45cac9814c1d2d  ./trash/01 - FIN-ACK.flac
+339dc10b7ab5e5fb17e8ae0a02c0b6c105b23928818aa1d4f7cd8184ac037187  ./trash/02 - iptables.flac
+c8a37bd1b71d61250d88522d7225abd44cd41bc2997c25beb73751c45eb062b8  ./trash/03 - grep 'the loot'.flac
+13e9021e695b14c54d8451836c518118cc378aa238120f0b7768cd815512063b  ./trash/04 - yung innanet.flac
+4b9acaa0cd2ef4e63ea98a380be14a9f047e5d02eb0de8ffbed434d8b86bac9a  ./trash/05 - modprobe homicide.flac
+0332a4b0afd4258ab0239112798a61f615257701ef807943706a5414a5e2223e  ./trash/06 - killall pride.flac
+d705cec2349a3bb8eab1a173fdcafb2f54ece149e3afacdc49df9e4a0b891767  ./trash/folder.jpg
+672c41b48b62b885c46c8c3338cbc004a47e14d25fd9789e87bffc4069f5814e  ./traverse/01 - dreadditevelidot.onion.flac
+68ad127f3ec81b9ed6315ff4df14147596d51f1cb954b644b4d2bdf86b612e11  ./traverse/02 - volatility.flac
+c8a911d6899511075c8251bd67ca2a11f2e1ed291df7064f69c96cdf3eaaa588  ./traverse/03 - heuristics.flac
+b4c77aae1bfa30e51fbd3ebed1743d0372436a136639c81cf88edc562f2b7ad3  ./traverse/04 - spider ⧸ crawl.flac
+f2a510891448ccfff8e7a825c3f57132b53f6e8c0720647bcbca6d22dad2c890  ./traverse/05 - shadow.flac
+22762c8a9e377eae338c09fd0ed5beb8c697357f7e0ad54b7f85b65333160b75  ./traverse/06 - traverse.flac
+b63aa1b66e1ea508f35a278b02e62666c1e4f214506afa20ba912948a49827bb  ./traverse/07 - failsafe.flac
+77fb7820dc6db4e86559157bd5ba6ae513d035b49ab6c4c96f7c842a10b1e823  ./traverse/08 - t0m5.d1n3r.flac
+1e6483763777a2ef5416b83b717e29030e0d46befe6bfd80e64f2a892d090d98  ./traverse/09 - hack by my lonely.flac
+fc1ad84cad5cb27ddac7b83c3d5068f6fcc86233537a4348e017d4167369812e  ./traverse/10 - noatime.flac
+555594a23cfdc563468850d7737255d7d3b91c68eb078ae013a6f83cde4ee990  ./traverse/folder.jpg
+9532791bb015593cd8e451b714dbe9b45972daaeb98bee55543647adb126d1c7  ./Unreleased & Posthumous/1 - yung innanet - throwtocols.m4a
+dc8e3445d88c43b10b4a7d3eeb2081c0c89d25fafa26efac53cf22996a6702f0  ./Unreleased & Posthumous/2 - yung innanet - port closed (freestyle).mp3
+7f5f48a8ff97a6b6cb1c5f3bc7b39186348ee8233d5e39da45f4cfebc0bce06d  ./Unreleased & Posthumous/3 - yung innanet - storm control.mp3
+858cd328a42ea63fd9c378a7408ee13ca96e32571232da2d899fa447caf17513  ./Unreleased & Posthumous/4 - yung innanet - domain reference.m4a
+19f202c115f25706826d050d6e07e34175699ccc8d5b24cfe574421cbc5e49f5  ./Unreleased & Posthumous/5 - yung innanet - sealegs (unreleased).m4a
+4d53625eeb202b2dc58e1da0b389ff553ed435cc49c3eb4b0a2780146f93d656  ./Unreleased & Posthumous/6 - It_s over (Get the fuck out).mp3
+002a1888b89ed5b717a70bec02c936f65b39992aa5cd747ff50c744d5e025ed9  ./Unreleased & Posthumous/7 - yung innanet - othacide.mp3
+21da6908286f60007102c07e1c58e3f81311b630adb49d632c5ae876f27edee2  ./Unreleased & Posthumous/8 - yung innanet - (postman snippet).mp3
+4737a755bff7ac43c1820e5c8b780bdddfbcb2c60f30b01a17f9d56471bb7d27  ./Unreleased & Posthumous/9 - postman_wideopen - Yung Innanet prerelease.m4a
+9a5af28c731b1a58988d497a934e8a053c0098239b7eec955f0eeec9a0e01d67  ./Unreleased & Posthumous/folder.jpg
+b3a9907630d29bce2195261462faebc8dd7d454941507cd5247cf3a6acf124a9  ./unstable/01 - 9sig9.flac
+b309f3b40577d611945a33422af1474b35290e31ed44bd07d33e01e782a7b9da  ./unstable/02 - injure.you.flac
+4321150ae707720bff987d81efbefffb324a0a5bbae5e3d88338f622823ba6ce  ./unstable/03 - gpu artifacts.flac
+14ee06d780b742d86afc5d772497442a27db409570decc6428277b972464ea8f  ./unstable/04 - page fault.flac
+5ed1a2602079e3efa5b7182c09a4118717162bb87abad549deeef6b81c1b44c8  ./unstable/05 - const.flac
+531288df7046a260e08b984ac5bd3fe7a5474588cbefc836c7a2b51ee45b3fbd  ./unstable/06 - america online.flac
+c48ca896601bbaf6d0da44b7686439286256ce032211a7a464548049acee6bff  ./unstable/07 - uptime.flac
+53c5ad81d37e234762f4a189ff920dfca09d016cbe2f6408fe444cbbd06ce421  ./unstable/08 - c2.flac
+d66ce493d1177eb8eda978dabe2f9f9e49226c6c04345fdd6c7814ecfe333b77  ./unstable/09 - void interlude() { while(smoke) { drink() } }.flac
+513fe5d3f1cfd20f0480d97ddc31d92e7584ba759e918e691f1ba03991bb2a65  ./unstable/10 - blckhxtwrld (neural net driveby).flac
+0592283d8040d47222da5e26aa45712933a38930084a975cf6e344e7c665f05d  ./unstable/11 - conntracc.flac
+6c062aea485063de99d0d05610826127760ed98d813cef32370032daa9fb3bf9  ./unstable/12 - unbound.flac
+5cc6fd6d9884b6564c507dc7691ee39a1f4ff89635661e82e5ddd6cb03d929bc  ./unstable/13 - icecoldwater.m4a
+01498e534d8e6fd83255333c774bf0822c75610634e8b9794db8da32a1ca77c7  ./unstable/14 - crosstalk (feat. ytcracker).flac
+5e9cdd8269d3a73acd9441b24e695ee20583551761337a01c199fee8b9215f92  ./unstable/folder.jpg
